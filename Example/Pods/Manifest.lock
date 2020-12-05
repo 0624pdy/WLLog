@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WLLog (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WLLog (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WLLog:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WLLog: 4171b4ad15c709df0fb35dbb0cf24113b516d3cf
+
+PODFILE CHECKSUM: d161f5c196c86810e9ba04498d93b27ee4a0cc1c
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module WLLog {
+  umbrella header "WLLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

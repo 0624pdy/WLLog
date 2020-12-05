@@ -1,0 +1,6 @@
+framework module Pods_WLLog_Example {
+  umbrella header "Pods-WLLog_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
